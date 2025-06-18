@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1Au_1O5I5GrRcN6Hmw8AKgYx2HsMXuJ1w/edit?usp=sharing&ouid=102275404989370358682&rtpof=true&sd=true
+
 # US Global Trade Analysis (2024) - Power BI Capstone Project
 
 This repository contains an interactive Power BI dashboard analyzing the United States' global trade performance for the year 2024. The analysis includes trade volumes, trade deficits, tariff responses, and efficiency scores across 200+ countries. The project integrates data analytics and visual storytelling to uncover key insights related to trade dynamics and policy implications.
